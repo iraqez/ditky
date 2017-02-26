@@ -1,0 +1,279 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-22 23:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+#: apps/mezzanine/generic/admin.py:24 apps/mezzanine/generic/models.py:75
+msgid "User"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:27
+msgid "Accounts required for commenting"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:28
+msgid "If ``True``, users must log in to comment."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:35
+msgid "Disqus shortname"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:36
+msgid "Shortname for the http://disqus.com comments service."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:44
+msgid "Disqus public key"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:45
+msgid "Public key for http://disqus.com developer API"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:52
+msgid "Disqus secret key"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:53
+msgid "Secret key for http://disqus.com developer API"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:60
+msgid "Auto-approve comments"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:61
+msgid "If ``True``, built-in comments are approved by default."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:69
+msgid ""
+"Dotted path to the function to call on a comment's value before it is "
+"rendered to the template."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:77
+msgid "Comment notification email addresses"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:78
+msgid ""
+"A comma separated list of email addresses that will receive an email "
+"notification each time a new comment is posted on the site."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:87
+msgid "Admin comments"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:88
+msgid "Number of latest comments shown in the admin dashboard."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:96
+msgid "Show unapproved comments"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:97
+msgid ""
+"If ``True``, comments that have ``is_public`` unchecked will still be "
+"displayed, but replaced with a ``waiting to be approved`` message."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:106
+msgid "Show removed comments"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:107
+msgid ""
+"If ``True``, comments that have ``removed`` checked will still be displayed, "
+"but replaced with a ``removed`` message."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:116
+msgid "If ``True``, comments can be rated."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:123
+msgid "The form class to use for adding new comments."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:131
+msgid "Accounts required for rating"
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:132
+msgid ""
+"If ``True``, users must log in to rate content such as blog posts and "
+"comments."
+msgstr ""
+
+#: apps/mezzanine/generic/defaults.py:140
+msgid "A sequence of integers that are valid ratings."
+msgstr ""
+
+#: apps/mezzanine/generic/forms.py:85
+msgid "Name"
+msgstr ""
+
+#: apps/mezzanine/generic/forms.py:85
+msgid "required"
+msgstr ""
+
+#: apps/mezzanine/generic/forms.py:87
+msgid "Email"
+msgstr ""
+
+#: apps/mezzanine/generic/forms.py:88
+msgid "required (not published)"
+msgstr ""
+
+#: apps/mezzanine/generic/forms.py:89
+msgid "Website"
+msgstr ""
+
+#: apps/mezzanine/generic/forms.py:89
+msgid "optional"
+msgstr ""
+
+#: apps/mezzanine/generic/forms.py:162
+msgid "New comment for: "
+msgstr ""
+
+#: apps/mezzanine/generic/forms.py:208
+msgid "Already rated."
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:31
+msgid "By the blog author"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:34 apps/mezzanine/generic/models.py:137
+msgid "Rating"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:39 apps/mezzanine/generic/models.py:66
+#: apps/mezzanine/generic/templates/generic/includes/comments.html:25
+msgid "Comment"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:40
+#: apps/mezzanine/generic/templates/generic/includes/comments.html:3
+msgid "Comments"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:79
+msgid "View on site"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:99 apps/mezzanine/generic/models.py:109
+msgid "Keyword"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:100
+msgid "Keywords"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:127
+msgid "Value"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:128
+msgid "Rating date"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:133
+msgid "Rater"
+msgstr ""
+
+#: apps/mezzanine/generic/models.py:138
+msgid "Ratings"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/admin/includes/recent_comments.html:4
+msgid "Recent Comments"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/admin/includes/recent_comments.html:22
+#: apps/mezzanine/generic/templates/generic/includes/comment.html:22
+#: apps/mezzanine/generic/templates/generic/includes/comment.html:59
+#, python-format
+msgid "%(sometime)s ago"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/email/comment_notification.html:6
+msgid "A new comment has been posted on"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/email/comment_notification.html:10
+#, python-format
+msgid ""
+"\n"
+"    At %(submit_date)s %(user_name)s wrote:\n"
+"    "
+msgstr ""
+
+#: apps/mezzanine/generic/templates/email/comment_notification.txt:7
+#, python-format
+msgid ""
+"\n"
+"At %(submit_date)s %(user_name)s wrote:\n"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/comment.html:30
+msgid "Link"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/comment.html:33
+#: apps/mezzanine/generic/templates/generic/includes/comment.html:49
+msgid "Reply"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/comment.html:55
+msgid "Comment deleted"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/comment.html:57
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/comment.html:71
+msgid "There are currently no comments"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/comments.html:17
+msgid "New Comment"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/rating.html:5
+msgid "Current rating"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/rating.html:7
+msgid "Currently unrated"
+msgstr ""
+
+#: apps/mezzanine/generic/templates/generic/includes/rating.html:17
+msgid "Rate"
+msgstr ""
+
+#: apps/mezzanine/generic/views.py:69
+msgid ""
+"You must be logged in. Please log in or sign up to complete this action."
+msgstr ""

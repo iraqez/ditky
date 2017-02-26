@@ -1,0 +1,1087 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# iraqez <vladimir.gumenyuk@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-22 23:44+0200\n"
+"PO-Revision-Date: 2017-02-22 23:51+0200\n"
+"Last-Translator: iraqez <vladimir.gumenyuk@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: apps/cartridge/shop/admin.py:70
+msgid "Product filters"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:107
+msgid "Current variations"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:137
+msgid "Other products"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:149
+msgid "Create new variations"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:280
+msgid "Items"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:320
+msgid "Billing details"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:321
+msgid "Shipping details"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:345 apps/cartridge/shop/admin.py:365
+msgid "Apply to product and/or products in categories"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:347 apps/cartridge/shop/admin.py:367
+msgid "Reduce unit price by"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:350
+msgid "Sale period"
+msgstr ""
+
+#: apps/cartridge/shop/admin.py:370
+msgid "Valid for"
+msgstr ""
+
+#: apps/cartridge/shop/checkout.py:39
+msgid "Flat rate shipping"
+msgstr ""
+
+#: apps/cartridge/shop/checkout.py:54
+#: apps/cartridge/shop/templates/shop/includes/order_totals.html:34
+#: apps/cartridge/shop/templates/shop/includes/order_totals.txt:8
+msgid "Tax"
+msgstr ""
+
+#: apps/cartridge/shop/checkout.py:189
+msgid "Details"
+msgstr ""
+
+#: apps/cartridge/shop/checkout.py:193
+msgid "Address"
+msgstr ""
+
+#: apps/cartridge/shop/checkout.py:196
+msgid "Payment"
+msgstr ""
+
+#: apps/cartridge/shop/checkout.py:200
+msgid "Confirmation"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:18
+msgid "Controls the ordering and grouping of the admin menu."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:21
+#: apps/cartridge/shop/management/commands/product_db.py:34
+msgid "Content"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:22
+msgid "Media Library"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:23
+msgid "Shop"
+msgstr "Магазин"
+
+#: apps/cartridge/shop/defaults.py:25
+msgid "Site"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:26
+msgid "Users"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:33
+msgid ""
+"Sequence of models that will be provided by default as choices in the search "
+"form. Each model should be in the format ``app_label.model_name``. Only "
+"models that subclass ``mezzanine.core.models.Displayable`` should be used."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:59
+msgid "Sequence of setting names available within templates."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:91
+msgid "Enable featured images in shop categories"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:98
+msgid "Checkout account required"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:99
+msgid "If True, users must create a login for the checkout process."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:123
+msgid "Payment Enabled"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:124
+msgid "If False, there is no payment step on the checkout process."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:132
+msgid "Currency Locale"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:143
+msgid "Default Shipping Cost"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:144
+msgid "Default cost of shipping when no custom shipping is implemented."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:152
+msgid "Discount in Cart"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:153
+msgid "Discount codes can be entered on the cart page."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:160
+msgid "Discount in Checkout"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:161
+msgid "Discount codes can be entered on the first checkout step."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:168
+msgid "Billing & Shipping Handler"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:179
+msgid "Tax Handler"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:190
+msgid "Order Handler"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:201
+msgid "Payment Handler"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:215
+msgid "Size"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:216
+msgid "Colour"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:232
+msgid "Order Email Subject"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:233
+msgid "Subject to be used when sending the order receipt email."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:235
+msgid "Order Receipt"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:240
+msgid "From Email"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:241
+msgid "Email address from which order receipts should be emailed."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:249
+msgid "BCC receipts to"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:250
+msgid "All order receipts will be BCCd to this address."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:260
+msgid "Unprocessed"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:261
+msgid "Processed"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:267
+msgid "Products Per Category Page"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:268
+msgid "Number of products to display per category page."
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:279
+msgid "Recently added"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:280
+msgid "Highest rated"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:281
+msgid "Least expensive"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:282
+msgid "Most expensive"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:288
+msgid "Use product variations"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:296
+msgid "Use product ratings"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:304
+msgid "Use product wishlist"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:313
+msgid "Use related products"
+msgstr ""
+
+#: apps/cartridge/shop/defaults.py:322
+msgid "Use upsell products"
+msgstr ""
+
+#: apps/cartridge/shop/fields.py:59
+#: apps/cartridge/shop/management/commands/product_db.py:36
+msgid "SKU"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:31
+#: apps/cartridge/shop/templates/shop/product.html:101
+msgid "The selected options are currently unavailable."
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:32
+msgid "The selected options are currently not in stock."
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:33
+msgid "The selected quantity is currently unavailable."
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:43 apps/cartridge/shop/forms.py:134
+#: apps/cartridge/shop/models.py:640
+msgid "Quantity"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:266 apps/cartridge/shop/tests.py:315
+msgid "The discount code entered is invalid."
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:282 apps/cartridge/shop/models.py:843
+msgid "Free shipping"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:305
+msgid "My delivery details are the same as my billing details"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:307
+msgid "Remember my address for next time"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:308
+msgid "Cardholder name"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:309
+msgid "Card type"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:312
+msgid "Card number"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:313
+msgid "Card expiry month"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:316
+msgid "Card expiry year"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:317
+msgid "CCV"
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:317
+msgid ""
+"A security code, usually the last 3 digits found on the back of your card."
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:420
+msgid "A valid expiry date is required."
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:532
+msgid "Only one variation can be checked as the default."
+msgstr ""
+
+#: apps/cartridge/shop/forms.py:546
+msgid "Please enter a value for only one type of reduction."
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:33
+#: apps/cartridge/shop/models.py:708
+msgid "Title"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:35
+#: apps/cartridge/shop/models.py:161 apps/cartridge/shop/models.py:639
+msgid "Description"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:37
+#: apps/cartridge/shop/models.py:99 apps/cartridge/shop/models.py:159
+#: apps/cartridge/shop/models.py:165 apps/cartridge/shop/models.py:221
+msgid "Image"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:38
+msgid "Category"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:39
+msgid "Sub-Category"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:41
+msgid "Number in Stock"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:42
+#: apps/cartridge/shop/templates/shop/cart.html:27
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:40
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:44
+msgid "Unit Price"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:43
+msgid "Sale Price"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:44
+msgid "Sale Start Date"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:45
+msgid "Sale Start Time"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:46
+msgid "Sale End Date"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:47
+msgid "Sale End Time"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:50
+msgid "product"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:65
+msgid "Import/Export products from a csv file."
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:72
+msgid "Import products from csv file."
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:77
+msgid "Export products from csv file."
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:86
+msgid "Please provide csv file to import"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:90
+msgid "need to import or export"
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:141
+msgid "Importing .."
+msgstr ""
+
+#: apps/cartridge/shop/management/commands/product_db.py:189
+msgid "Exporting .."
+msgstr ""
+
+#: apps/cartridge/shop/models.py:41 apps/cartridge/shop/models.py:641
+msgid "Unit price"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:43
+msgid "Sale price"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:44
+msgid "Sale start"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:45
+msgid "Sale end"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:47
+msgid "Number in stock"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:97
+msgid "Available for purchase"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:101 apps/cartridge/shop/models.py:353
+msgid "Product categories"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:102
+msgid "Date added"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:105
+msgid "Related products"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:107
+msgid "Upsell products"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:108
+msgid "Rating"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:117
+msgid "Product"
+msgstr "Товар"
+
+#: apps/cartridge/shop/models.py:118 apps/cartridge/shop/models.py:337
+#: apps/cartridge/shop/models.py:711
+msgid "Products"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:166
+msgid "Images"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:183
+msgid "Type"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:185
+msgid "Name"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:193
+msgid "Product option"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:194 apps/cartridge/shop/models.py:340
+msgid "Product options"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:220
+msgid "Default"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:264
+msgid "SKU is not unique"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:333
+msgid "Featured Image"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:342 apps/cartridge/shop/models.py:747
+msgid "Sale"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:344
+msgid "Minimum price"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:345
+msgid "Maximum price"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:346
+msgid "Combined"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:347
+msgid ""
+"If checked, products must match all specified filters, otherwise products "
+"can match any specified filter."
+msgstr ""
+
+#: apps/cartridge/shop/models.py:352
+msgid "Product category"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:407 apps/cartridge/shop/models.py:416
+msgid "First name"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:408 apps/cartridge/shop/models.py:417
+msgid "Last name"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:409 apps/cartridge/shop/models.py:418
+msgid "Street"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:410 apps/cartridge/shop/models.py:419
+msgid "City/Suburb"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:411 apps/cartridge/shop/models.py:420
+msgid "State/Region"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:412 apps/cartridge/shop/models.py:421
+msgid "Zip/Postcode"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:413 apps/cartridge/shop/models.py:422
+msgid "Country"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:414 apps/cartridge/shop/models.py:423
+msgid "Phone"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:415
+msgid "Email"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:424
+msgid "Additional instructions"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:426
+msgid "Time"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:429
+msgid "Shipping type"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:430
+msgid "Shipping total"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:431
+msgid "Tax type"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:432
+msgid "Tax total"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:433
+msgid "Item total"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:434 apps/cartridge/shop/models.py:865
+msgid "Discount code"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:435
+msgid "Discount total"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:436
+msgid "Order total"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:437
+msgid "Transaction ID"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:440
+msgid "Status"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:533
+#: apps/cartridge/shop/templates/admin/shop/order/change_form.html:15
+#: apps/cartridge/shop/templates/shop/complete.html:70
+msgid "Download PDF invoice"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:541
+msgid "Last updated"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:642
+msgid "Total price"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:709
+msgid "Active"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:714
+msgid "Categories"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:715
+msgid "Reduce by amount"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:716
+msgid "Reduce by percent"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:719
+msgid "Reduce to amount"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:720
+msgid "Valid from"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:721
+msgid "Valid to"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:748
+msgid "Sales"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:841
+msgid "Code"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:842
+msgid "Minimum total purchase"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:844
+msgid "Uses remaining"
+msgstr ""
+
+#: apps/cartridge/shop/models.py:845
+msgid ""
+"If you wish to limit the number of times a code may be used, set this value. "
+"It will be decremented upon each use."
+msgstr ""
+
+#: apps/cartridge/shop/models.py:866
+msgid "Discount codes"
+msgstr ""
+
+#: apps/cartridge/shop/payment/egate.py:54
+#: apps/cartridge/shop/payment/stripe_api.py:48
+msgid "A general error occured: "
+msgstr ""
+
+#: apps/cartridge/shop/payment/egate.py:57
+msgid "Transaction declined: "
+msgstr ""
+
+#: apps/cartridge/shop/payment/stripe_api.py:46
+msgid "Transaction declined"
+msgstr ""
+
+#: apps/cartridge/shop/templates/accounts/account_profile_update.html:6
+msgid "View past orders"
+msgstr ""
+
+#: apps/cartridge/shop/templates/admin/shop/order/change_form.html:17
+#: apps/cartridge/shop/templates/shop/complete.html:73
+#: apps/cartridge/shop/templates/shop/order_history.html:38
+msgid "Re-send order email"
+msgstr ""
+
+#: apps/cartridge/shop/templates/admin/shop/product/change_form.html:7
+msgid ""
+"Select all of the required variation options and then click 'Save and "
+"continue editing' below. You'll then be able to edit the price and other "
+"attributes for each variation individually."
+msgstr ""
+
+#: apps/cartridge/shop/templates/email/order_receipt.txt:5
+#: apps/cartridge/shop/templates/email/receipt.html:3
+#: apps/cartridge/shop/templates/email/receipt_rtl.html:3
+msgid "Dear"
+msgstr ""
+
+#: apps/cartridge/shop/templates/email/order_receipt.txt:7
+#: apps/cartridge/shop/templates/email/receipt.html:4
+#: apps/cartridge/shop/templates/email/receipt_rtl.html:4
+msgid "Your order has been successful, details are below."
+msgstr ""
+
+#: apps/cartridge/shop/templates/email/order_receipt.txt:9
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:7
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:8
+msgid "Order ID:"
+msgstr ""
+
+#: apps/cartridge/shop/templates/email/order_receipt.txt:11
+msgid "Billing Details:"
+msgstr ""
+
+#: apps/cartridge/shop/templates/email/order_receipt.txt:16
+msgid "Shipping Details:"
+msgstr ""
+
+#: apps/cartridge/shop/templates/email/order_receipt.txt:21
+msgid "Items Ordered:"
+msgstr ""
+
+#: apps/cartridge/shop/templates/email/order_receipt.txt:23
+msgid "each"
+msgstr ""
+
+#: apps/cartridge/shop/templates/pages/category.html:45
+msgid "Sort by"
+msgstr ""
+
+#: apps/cartridge/shop/templates/pages/category.html:74
+#: apps/cartridge/shop/templates/shop/cart.html:94
+#: apps/cartridge/shop/templates/shop/product.html:95
+#: apps/cartridge/shop/templates/shop/product.html:145
+msgid "On sale:"
+msgstr ""
+
+#: apps/cartridge/shop/templates/pages/category.html:78
+#: apps/cartridge/shop/templates/shop/cart.html:98
+#: apps/cartridge/shop/templates/shop/product.html:149
+msgid "Coming soon"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/billing_shipping.html:17
+#, python-format
+msgid ""
+"\n"
+"If you have an existing account or would like to create one, please\n"
+"<a href=\"%(login_url)s?next=%(next)s\">log in</a> or\n"
+"<a href=\"%(signup_url)s?next=%(next)s\">sign up</a>.\n"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/billing_shipping.html:30
+#: apps/cartridge/shop/templates/shop/confirmation.html:10
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:15
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:15
+msgid "Billing Details"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/billing_shipping.html:35
+msgid "Delivery Details"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:4
+#: apps/cartridge/shop/templates/shop/cart.html:5
+#: apps/cartridge/shop/templates/shop/cart.html:10
+msgid "Your Cart"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:26
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:39
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:45
+msgid "Item"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:28
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:41
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:43
+#: apps/cartridge/shop/templates/shop/order_history.html:20
+msgid "Qty"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:29
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:42
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:42
+msgid "Price"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:30
+msgid "Remove?"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:64
+#: apps/cartridge/shop/templates/shop/includes/user_panel.html:10
+msgid "Return to Checkout"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:64
+#: apps/cartridge/shop/templates/shop/includes/user_panel.html:10
+msgid "Go to Checkout"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:66
+msgid "Update Cart"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:73
+msgid "Apply"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:80
+msgid "You may also like:"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/cart.html:111
+msgid "Your Cart is empty."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:4
+#: apps/cartridge/shop/templates/shop/checkout.html:5
+msgid "Checkout"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:5
+msgid "Step"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:5
+msgid "of"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:25
+#: apps/cartridge/shop/templates/shop/complete.html:58
+msgid "Complete"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:40
+msgid "Next"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:42
+msgid "Back"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:46
+msgid "Your cart is empty."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:47
+msgid ""
+"This may be due to your session timing out after a period of inactivity."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:48
+msgid "We apologize for the inconvenience."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:50
+#: apps/cartridge/shop/templates/shop/wishlist.html:44
+msgid "Continue Shopping"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/checkout.html:75
+msgid "Edit Cart"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/complete.html:6
+#: apps/cartridge/shop/templates/shop/complete.html:52
+msgid "Order Complete"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/complete.html:63
+msgid "Thank you for shopping with us, your order is complete."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/complete.html:64
+msgid "We've sent you a receipt via email."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/complete.html:65
+msgid "You can also view your invoice using one of the links below."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/complete.html:72
+msgid "View invoice in your browser"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/confirmation.html:25
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:16
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:16
+msgid "Shipping Details"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:12
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:12
+msgid "Your Details"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/order_details.html:36
+#: apps/cartridge/shop/templates/shop/includes/order_details_rtl.html:36
+msgid "Items Ordered"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/order_totals.html:4
+#: apps/cartridge/shop/templates/shop/includes/order_totals.txt:2
+msgid "Sub total"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/order_totals.html:12
+#: apps/cartridge/shop/templates/shop/includes/order_totals.txt:4
+msgid "Discount"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/order_totals.html:23
+#: apps/cartridge/shop/templates/shop/includes/order_totals.txt:6
+msgid "Shipping"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/order_totals.html:39
+#: apps/cartridge/shop/templates/shop/includes/order_totals.txt:9
+msgid "Total"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/payment_fields.html:3
+msgid "Payment Details"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/payment_fields.html:8
+msgid "Card Expiry"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/user_panel.html:5
+#, python-format
+msgid "1 item"
+msgid_plural "%(cart_quantity)s items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: apps/cartridge/shop/templates/shop/includes/user_panel.html:6
+msgid "in cart"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/includes/user_panel.html:16
+#, python-format
+msgid "Wishlist contains 1 item"
+msgid_plural " Wishlist contains %(wishlist_count)s items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: apps/cartridge/shop/templates/shop/order_history.html:4
+#: apps/cartridge/shop/templates/shop/order_history.html:5
+#: apps/cartridge/shop/templates/shop/order_history.html:9
+msgid "Order History"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/order_history.html:19
+msgid "Date"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/order_history.html:21
+msgid "Paid"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/order_history.html:35
+msgid "Download PDF"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/order_history.html:37
+msgid "View invoice"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/order_history.html:48
+msgid "You have not ordered anything from us yet."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/product.html:114
+#: apps/cartridge/shop/templates/shop/wishlist.html:34
+msgid "Buy"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/product.html:116
+msgid "Save for later"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/product.html:121
+msgid "This product is currently unavailable."
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/product.html:131
+msgid "Related Products"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/wishlist.html:4
+#: apps/cartridge/shop/templates/shop/wishlist.html:5
+#: apps/cartridge/shop/templates/shop/wishlist.html:9
+msgid "Your Wishlist"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/wishlist.html:35
+msgid "Remove"
+msgstr ""
+
+#: apps/cartridge/shop/templates/shop/wishlist.html:42
+msgid "Your wishlist is empty."
+msgstr ""
+
+#: apps/cartridge/shop/utils.py:109
+#, python-format
+msgid ""
+"Invalid currency locale specified for SHOP_CURRENCY_LOCALE: '%s'. You'll "
+"need to set the locale for your system, or configure the "
+"SHOP_CURRENCY_LOCALE setting in your settings module."
+msgstr ""
+
+#: apps/cartridge/shop/views.py:71 apps/cartridge/shop/views.py:121
+msgid "Item added to cart"
+msgstr ""
+
+#: apps/cartridge/shop/views.py:78
+msgid "Item added to wishlist"
+msgstr ""
+
+#: apps/cartridge/shop/views.py:126
+msgid "Item removed from wishlist"
+msgstr ""
+
+#: apps/cartridge/shop/views.py:167
+msgid "Your cart has expired"
+msgstr ""
+
+#: apps/cartridge/shop/views.py:175
+msgid "Cart updated"
+msgstr ""
+
+#: apps/cartridge/shop/views.py:426
+#, python-format
+msgid "The order email for order ID %s has been re-sent"
+msgstr ""
+

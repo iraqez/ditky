@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-22 23:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+#: apps/mezzanine/mobile/templates/mobile/404.html:6
+msgid "Page not found"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/404.html:10
+msgid "The page you requested does not exist."
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/500.html:6
+msgid "Error"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/500.html:10
+msgid "Sorry, an error occurred."
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/base.html:36
+#: apps/mezzanine/mobile/templates/mobile/index.html:6
+msgid "Home"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/base.html:48
+msgid "Powered by"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/base.html:49
+msgid "View Full Site"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/blog/blog_post_detail.html:23
+msgid "Posted by"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/blog/blog_post_detail.html:30
+#: apps/mezzanine/mobile/templates/mobile/blog/blog_post_list.html:28
+#, python-format
+msgid "%(sometime)s ago"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/blog/blog_post_detail.html:41
+msgid "Tags"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/blog/blog_post_detail.html:52
+msgid "Share this on:"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/blog/blog_post_detail.html:54
+msgid "or"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/blog/blog_post_list.html:4
+#: apps/mezzanine/mobile/templates/mobile/blog/blog_post_list.html:19
+msgid "Blog"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/includes/pagination.html:6
+msgid "Previous"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/includes/pagination.html:9
+msgid "Next"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/includes/search.html:4
+msgid "Search"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/includes/search.html:5
+msgid "Use "
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/includes/search.html:5
+msgid "quotes"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/includes/search.html:5
+msgid ""
+" for exact phrases, + to make a word or phrase required, and - to exclude a "
+"word or phrase."
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/index.html:10
+msgid "This is the mobile homepage."
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/search_results.html:5
+#: apps/mezzanine/mobile/templates/mobile/search_results.html:6
+msgid "Search Results"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/search_results.html:12
+msgid "No results were found matching your query: "
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/search_results.html:14
+msgid "Showing"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/search_results.html:14
+msgid "to"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/search_results.html:14
+msgid "of"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/search_results.html:15
+msgid "results matching your query:"
+msgstr ""
+
+#: apps/mezzanine/mobile/templates/mobile/search_results.html:23
+msgid "read more"
+msgstr ""

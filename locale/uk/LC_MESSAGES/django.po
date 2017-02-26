@@ -1,0 +1,680 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# iraqez <vladimir.gumenyuk@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-22 23:44+0200\n"
+"PO-Revision-Date: 2017-02-22 23:48+0200\n"
+"Last-Translator: iraqez <vladimir.gumenyuk@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: apps/mezzanine/project_template/project_name/settings.py:115
+msgid "English"
+msgstr "Англійська"
+
+#: apps/mezzanine/utils/views.py:94
+msgid "Name"
+msgstr "Ім'я"
+
+#: ditky/settings.py:187
+msgid "Ukrainian"
+msgstr "Українська"
+
+#: ditky/settings.py:188
+msgid "Russian"
+msgstr "Російська"
+
+#: ditkytheme/templates/base.html:151
+msgid "Search..."
+msgstr "Пошук..."
+
+#: ditkytheme/templates/dropdown.html:11 ditkytheme/templates/dropdown3.html:10
+#: ditkytheme/templates/my_menu.html:8 tmpl/index.html:4 tmpl/index.html:5
+#: tmpl/index.html:8 tmpl/pages/menus/breadcrumb.html:4
+#: tmpl/pages/menus/breadcrumb.html:10 tmpl/pages/menus/dropdown.html:10
+#: tmpl/pages/menus/footer_tree.html:11 tmpl/pages/menus/mobile.html:10
+#: tmpl/pages/menus/primary.html:8 tmpl/pages/menus/tree.html:9
+#: tmpl/search_results.html:13
+msgid "Home"
+msgstr "Додому"
+
+#: tmpl/1.html:55 tmpl/base.html:55
+msgid "Toggle Navigation"
+msgstr ""
+
+#: tmpl/1.html:135 tmpl/base.html:135
+msgid "Powered by"
+msgstr ""
+
+#: tmpl/1.html:138 tmpl/base.html:138
+msgid "and"
+msgstr ""
+
+#: tmpl/1.html:141 tmpl/base.html:141
+msgid "Theme by"
+msgstr ""
+
+#: tmpl/1.html:144 tmpl/base.html:144
+msgid "View Mobile Site"
+msgstr ""
+
+#: tmpl/accounts/account_profile_update.html:6
+msgid "View past orders"
+msgstr ""
+
+#: tmpl/blog/blog_post_detail.html:29 tmpl/blog/blog_post_list.html:85
+msgid "Posted by"
+msgstr ""
+
+#: tmpl/blog/blog_post_detail.html:33 tmpl/blog/blog_post_list.html:97
+#: tmpl/generic/includes/comment.html:22 tmpl/generic/includes/comment.html:59
+#: tmpl/twitter/tweets.html:19
+#, python-format
+msgid "%(sometime)s ago"
+msgstr ""
+
+#: tmpl/blog/blog_post_detail.html:43 tmpl/blog/blog_post_list.html:136
+#: tmpl/generic/includes/comments.html:3
+msgid "Comments"
+msgstr ""
+
+#: tmpl/blog/blog_post_detail.html:46 tmpl/blog/blog_post_list.html:140
+#, python-format
+msgid "%(comments_count)s comment"
+msgid_plural "%(comments_count)s comments"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: tmpl/blog/blog_post_detail.html:74 tmpl/blog/blog_post_list.html:121
+#: tmpl/blog/includes/filter_panel.html:56
+msgid "Tags"
+msgstr ""
+
+#: tmpl/blog/blog_post_detail.html:93
+msgid "Share on Twitter"
+msgstr ""
+
+#: tmpl/blog/blog_post_detail.html:94
+msgid "Share on Facebook"
+msgstr ""
+
+#: tmpl/blog/blog_post_detail.html:119
+msgid "Related posts"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:4 tmpl/blog/blog_post_list.html:22
+msgid "Blog"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:31
+msgid "Tag:"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:33
+msgid "Category:"
+msgstr "Категорія:"
+
+#: tmpl/blog/blog_post_list.html:37
+msgid "Author:"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:50
+msgid "Viewing posts tagged"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:52
+msgid "Viewing posts for the category"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:54
+msgid "Viewing posts from"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:57
+msgid "Viewing posts by"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:91
+msgid "in"
+msgstr ""
+
+#: tmpl/blog/blog_post_list.html:130 tmpl/search_results.html:47
+msgid "read more"
+msgstr ""
+
+#: tmpl/blog/includes/filter_panel.html:6
+msgid "Recent Posts"
+msgstr ""
+
+#: tmpl/blog/includes/filter_panel.html:27
+msgid "Archive"
+msgstr ""
+
+#: tmpl/blog/includes/filter_panel.html:43
+msgid "Categories"
+msgstr "Категорії"
+
+#: tmpl/blog/includes/filter_panel.html:72
+msgid "Authors"
+msgstr ""
+
+#: tmpl/blog/includes/filter_panel.html:84
+msgid "Feeds"
+msgstr ""
+
+#: tmpl/blog/includes/filter_panel.html:86
+#: tmpl/blog/includes/filter_panel.html:90
+#: tmpl/blog/includes/filter_panel.html:94
+#: tmpl/blog/includes/filter_panel.html:98
+msgid "RSS"
+msgstr ""
+
+#: tmpl/blog/includes/filter_panel.html:87
+#: tmpl/blog/includes/filter_panel.html:91
+#: tmpl/blog/includes/filter_panel.html:95
+#: tmpl/blog/includes/filter_panel.html:99
+msgid "Atom"
+msgstr ""
+
+#: tmpl/email/comment_notification.html:6
+msgid "A new comment has been posted on"
+msgstr ""
+
+#: tmpl/email/comment_notification.html:10
+#, python-format
+msgid ""
+"\n"
+"    At %(submit_date)s %(user_name)s wrote:\n"
+"    "
+msgstr ""
+
+#: tmpl/email/comment_notification.txt:7
+#, python-format
+msgid ""
+"\n"
+"At %(submit_date)s %(user_name)s wrote:\n"
+msgstr ""
+
+#: tmpl/email/order_receipt.txt:5 tmpl/email/receipt.html:3
+#: tmpl/email/receipt_rtl.html:3
+msgid "Dear"
+msgstr ""
+
+#: tmpl/email/order_receipt.txt:7 tmpl/email/receipt.html:4
+#: tmpl/email/receipt_rtl.html:4
+msgid "Your order has been successful, details are below."
+msgstr ""
+
+#: tmpl/email/order_receipt.txt:9 tmpl/shop/includes/order_details.html:7
+#: tmpl/shop/includes/order_details_rtl.html:8
+msgid "Order ID:"
+msgstr ""
+
+#: tmpl/email/order_receipt.txt:11
+msgid "Billing Details:"
+msgstr ""
+
+#: tmpl/email/order_receipt.txt:16
+msgid "Shipping Details:"
+msgstr ""
+
+#: tmpl/email/order_receipt.txt:21
+msgid "Items Ordered:"
+msgstr ""
+
+#: tmpl/email/order_receipt.txt:23
+msgid "each"
+msgstr ""
+
+#: tmpl/errors/404.html:6 tmpl/errors/404.html:10 tmpl/errors/404.html:15
+msgid "Page not found"
+msgstr ""
+
+#: tmpl/errors/404.html:16
+msgid "The page you requested does not exist."
+msgstr ""
+
+#: tmpl/errors/500.html:6 tmpl/errors/500.html:10 tmpl/errors/500.html:15
+msgid "Error"
+msgstr ""
+
+#: tmpl/errors/500.html:16
+msgid "Sorry, an error occurred."
+msgstr ""
+
+#: tmpl/generic/includes/comment.html:30
+msgid "Link"
+msgstr ""
+
+#: tmpl/generic/includes/comment.html:33 tmpl/generic/includes/comment.html:49
+msgid "Reply"
+msgstr ""
+
+#: tmpl/generic/includes/comment.html:55
+msgid "Comment deleted"
+msgstr ""
+
+#: tmpl/generic/includes/comment.html:57
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: tmpl/generic/includes/comment.html:71
+msgid "There are currently no comments"
+msgstr ""
+
+#: tmpl/generic/includes/comments.html:17
+msgid "New Comment"
+msgstr ""
+
+#: tmpl/generic/includes/comments.html:25
+msgid "Comment"
+msgstr ""
+
+#: tmpl/generic/includes/rating.html:5
+msgid "Current rating"
+msgstr ""
+
+#: tmpl/generic/includes/rating.html:7
+msgid "Currently unrated"
+msgstr ""
+
+#: tmpl/generic/includes/rating.html:17
+msgid "Rate"
+msgstr ""
+
+#: tmpl/includes/editable_form.html:16
+msgid "Save"
+msgstr ""
+
+#: tmpl/includes/editable_form.html:17
+msgid "Cancel"
+msgstr ""
+
+#: tmpl/includes/editable_form.html:25
+msgid "Edit"
+msgstr ""
+
+#: tmpl/includes/editable_toolbar.html:8
+msgid "Admin"
+msgstr ""
+
+#: tmpl/includes/editable_toolbar.html:9
+msgid "Log out"
+msgstr ""
+
+#: tmpl/includes/form_errors.html:8
+msgid "Please correct the errors below."
+msgstr ""
+
+#: tmpl/includes/language_selector.html:19
+msgid "Change"
+msgstr ""
+
+#: tmpl/includes/pagination.html:7
+msgid "Page"
+msgstr ""
+
+#: tmpl/includes/pagination.html:7 tmpl/shop/checkout.html:5
+msgid "of"
+msgstr ""
+
+#: tmpl/includes/search_form.html:5
+msgid "Search"
+msgstr ""
+
+#: tmpl/includes/search_form.html:14
+msgid "Everything"
+msgstr ""
+
+#: tmpl/includes/search_form.html:26
+msgid "Go"
+msgstr ""
+
+#: tmpl/index.html:12
+msgid ""
+"\n"
+"<h2>Congratulations!</h2>\n"
+"<p>\n"
+"    Welcome to your new Mezzanine powered website.\n"
+"    Here are some quick links to get you started:\n"
+"</p>\n"
+"<ul>\n"
+"    <li><a href=\"/admin/\">Log in to the admin interface</a></li>\n"
+"    <li><a href=\"http://mezzanine.jupo.org/docs/content-architecture.html"
+"\">Creating custom page types</a></li>\n"
+"    <li><a href=\"http://mezzanine.jupo.org/docs/frequently-asked-questions."
+"html#templates\">Modifying HTML templates</a></li>\n"
+"    <li><a href=\"http://mezzanine.jupo.org/docs/frequently-asked-questions."
+"html#why-isn-t-the-homepage-a-page-object-i-can-edit-via-the-admin"
+"\">Changing this homepage</a></li>\n"
+"    <li><a href=\"http://mezzanine.jupo.org/docs/frequently-asked-questions."
+"html\">Other frequently asked questions</a></li>\n"
+"    <li><a href=\"http://mezzanine.jupo.org/docs/configuration.html#default-"
+"settings\">Full list of settings</a></li>\n"
+"    <li><a href=\"http://mezzanine.jupo.org/docs/deployment.html\">Deploying "
+"to a production server</a></li>\n"
+"</ul>\n"
+msgstr ""
+
+#: tmpl/pages/category.html:45
+msgid "Sort by"
+msgstr ""
+
+#: tmpl/pages/category.html:74 tmpl/shop/cart.html:94 tmpl/shop/product.html:95
+#: tmpl/shop/product.html:145
+msgid "On sale:"
+msgstr ""
+
+#: tmpl/pages/category.html:78 tmpl/shop/cart.html:98
+#: tmpl/shop/product.html:149
+msgid "Coming soon"
+msgstr ""
+
+#: tmpl/pages/form.html:29
+msgid "Submit"
+msgstr ""
+
+#: tmpl/pages/menus/admin.html:31
+msgid "Add"
+msgstr ""
+
+#: tmpl/search_results.html:5 tmpl/search_results.html:6
+#: tmpl/search_results.html:15
+msgid "Search Results"
+msgstr ""
+
+#: tmpl/search_results.html:22
+#, python-format
+msgid ""
+"\n"
+"No results were found in %(search_type)s matching your query: %(query)s\n"
+msgstr ""
+
+#: tmpl/search_results.html:26
+#, python-format
+msgid ""
+"\n"
+"Showing %(start)s to %(end)s of %(total)s results in %(search_type)s "
+"matching your query: %(query)s\n"
+msgstr ""
+
+#: tmpl/shop/billing_shipping.html:17
+#, python-format
+msgid ""
+"\n"
+"If you have an existing account or would like to create one, please\n"
+"<a href=\"%(login_url)s?next=%(next)s\">log in</a> or\n"
+"<a href=\"%(signup_url)s?next=%(next)s\">sign up</a>.\n"
+msgstr ""
+
+#: tmpl/shop/billing_shipping.html:30 tmpl/shop/confirmation.html:10
+#: tmpl/shop/includes/order_details.html:15
+#: tmpl/shop/includes/order_details_rtl.html:15
+msgid "Billing Details"
+msgstr ""
+
+#: tmpl/shop/billing_shipping.html:35
+msgid "Delivery Details"
+msgstr ""
+
+#: tmpl/shop/cart.html:4 tmpl/shop/cart.html:5 tmpl/shop/cart.html:10
+msgid "Your Cart"
+msgstr ""
+
+#: tmpl/shop/cart.html:26 tmpl/shop/includes/order_details.html:39
+#: tmpl/shop/includes/order_details_rtl.html:45
+msgid "Item"
+msgstr ""
+
+#: tmpl/shop/cart.html:27 tmpl/shop/includes/order_details.html:40
+#: tmpl/shop/includes/order_details_rtl.html:44
+msgid "Unit Price"
+msgstr ""
+
+#: tmpl/shop/cart.html:28 tmpl/shop/includes/order_details.html:41
+#: tmpl/shop/includes/order_details_rtl.html:43 tmpl/shop/order_history.html:20
+msgid "Qty"
+msgstr ""
+
+#: tmpl/shop/cart.html:29 tmpl/shop/includes/order_details.html:42
+#: tmpl/shop/includes/order_details_rtl.html:42
+msgid "Price"
+msgstr ""
+
+#: tmpl/shop/cart.html:30
+msgid "Remove?"
+msgstr ""
+
+#: tmpl/shop/cart.html:64 tmpl/shop/includes/user_panel.html:10
+msgid "Return to Checkout"
+msgstr ""
+
+#: tmpl/shop/cart.html:64 tmpl/shop/includes/user_panel.html:10
+msgid "Go to Checkout"
+msgstr ""
+
+#: tmpl/shop/cart.html:66
+msgid "Update Cart"
+msgstr ""
+
+#: tmpl/shop/cart.html:73
+msgid "Apply"
+msgstr ""
+
+#: tmpl/shop/cart.html:80
+msgid "You may also like:"
+msgstr ""
+
+#: tmpl/shop/cart.html:111
+msgid "Your Cart is empty."
+msgstr ""
+
+#: tmpl/shop/checkout.html:4 tmpl/shop/checkout.html:5
+msgid "Checkout"
+msgstr ""
+
+#: tmpl/shop/checkout.html:5
+msgid "Step"
+msgstr ""
+
+#: tmpl/shop/checkout.html:25 tmpl/shop/complete.html:58
+msgid "Complete"
+msgstr ""
+
+#: tmpl/shop/checkout.html:40
+msgid "Next"
+msgstr ""
+
+#: tmpl/shop/checkout.html:42
+msgid "Back"
+msgstr ""
+
+#: tmpl/shop/checkout.html:46
+msgid "Your cart is empty."
+msgstr ""
+
+#: tmpl/shop/checkout.html:47
+msgid ""
+"This may be due to your session timing out after a period of inactivity."
+msgstr ""
+
+#: tmpl/shop/checkout.html:48
+msgid "We apologize for the inconvenience."
+msgstr ""
+
+#: tmpl/shop/checkout.html:50 tmpl/shop/wishlist.html:44
+msgid "Continue Shopping"
+msgstr ""
+
+#: tmpl/shop/checkout.html:75
+msgid "Edit Cart"
+msgstr ""
+
+#: tmpl/shop/complete.html:6 tmpl/shop/complete.html:52
+msgid "Order Complete"
+msgstr ""
+
+#: tmpl/shop/complete.html:63
+msgid "Thank you for shopping with us, your order is complete."
+msgstr ""
+
+#: tmpl/shop/complete.html:64
+msgid "We've sent you a receipt via email."
+msgstr ""
+
+#: tmpl/shop/complete.html:65
+msgid "You can also view your invoice using one of the links below."
+msgstr ""
+
+#: tmpl/shop/complete.html:70
+msgid "Download PDF invoice"
+msgstr ""
+
+#: tmpl/shop/complete.html:72
+msgid "View invoice in your browser"
+msgstr ""
+
+#: tmpl/shop/complete.html:73 tmpl/shop/order_history.html:38
+msgid "Re-send order email"
+msgstr ""
+
+#: tmpl/shop/confirmation.html:25 tmpl/shop/includes/order_details.html:16
+#: tmpl/shop/includes/order_details_rtl.html:16
+msgid "Shipping Details"
+msgstr ""
+
+#: tmpl/shop/includes/order_details.html:12
+#: tmpl/shop/includes/order_details_rtl.html:12
+msgid "Your Details"
+msgstr ""
+
+#: tmpl/shop/includes/order_details.html:36
+#: tmpl/shop/includes/order_details_rtl.html:36
+msgid "Items Ordered"
+msgstr ""
+
+#: tmpl/shop/includes/order_totals.html:4 tmpl/shop/includes/order_totals.txt:2
+msgid "Sub total"
+msgstr ""
+
+#: tmpl/shop/includes/order_totals.html:12
+#: tmpl/shop/includes/order_totals.txt:4
+msgid "Discount"
+msgstr ""
+
+#: tmpl/shop/includes/order_totals.html:23
+#: tmpl/shop/includes/order_totals.txt:6
+msgid "Shipping"
+msgstr ""
+
+#: tmpl/shop/includes/order_totals.html:34
+#: tmpl/shop/includes/order_totals.txt:8
+msgid "Tax"
+msgstr ""
+
+#: tmpl/shop/includes/order_totals.html:39
+#: tmpl/shop/includes/order_totals.txt:9
+msgid "Total"
+msgstr ""
+
+#: tmpl/shop/includes/payment_fields.html:3
+msgid "Payment Details"
+msgstr ""
+
+#: tmpl/shop/includes/payment_fields.html:8
+msgid "Card Expiry"
+msgstr ""
+
+#: tmpl/shop/includes/user_panel.html:5
+#, python-format
+msgid "1 item"
+msgid_plural "%(cart_quantity)s items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: tmpl/shop/includes/user_panel.html:6
+msgid "in cart"
+msgstr ""
+
+#: tmpl/shop/includes/user_panel.html:16
+#, python-format
+msgid "Wishlist contains 1 item"
+msgid_plural " Wishlist contains %(wishlist_count)s items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: tmpl/shop/order_history.html:4 tmpl/shop/order_history.html:5
+#: tmpl/shop/order_history.html:9
+msgid "Order History"
+msgstr ""
+
+#: tmpl/shop/order_history.html:19
+msgid "Date"
+msgstr ""
+
+#: tmpl/shop/order_history.html:21
+msgid "Paid"
+msgstr ""
+
+#: tmpl/shop/order_history.html:35
+msgid "Download PDF"
+msgstr ""
+
+#: tmpl/shop/order_history.html:37
+msgid "View invoice"
+msgstr ""
+
+#: tmpl/shop/order_history.html:48
+msgid "You have not ordered anything from us yet."
+msgstr ""
+
+#: tmpl/shop/product.html:101
+msgid "The selected options are currently unavailable."
+msgstr ""
+
+#: tmpl/shop/product.html:114 tmpl/shop/wishlist.html:34
+msgid "Buy"
+msgstr ""
+
+#: tmpl/shop/product.html:116
+msgid "Save for later"
+msgstr ""
+
+#: tmpl/shop/product.html:121
+msgid "This product is currently unavailable."
+msgstr ""
+
+#: tmpl/shop/product.html:131
+msgid "Related Products"
+msgstr ""
+
+#: tmpl/shop/wishlist.html:4 tmpl/shop/wishlist.html:5
+#: tmpl/shop/wishlist.html:9
+msgid "Your Wishlist"
+msgstr ""
+
+#: tmpl/shop/wishlist.html:35
+msgid "Remove"
+msgstr ""
+
+#: tmpl/shop/wishlist.html:42
+msgid "Your wishlist is empty."
+msgstr ""
+
+#: tmpl/twitter/tweets.html:7
+msgid "Recent Tweets"
+msgstr ""
+
