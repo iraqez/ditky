@@ -103,7 +103,7 @@
 					</ul>
 				</div>
 				<div class="nav navbar-nav logo wow zoomIn animated" data-wow-delay=".7s">
-					<h1><a href="index.html">Modern <b>Shoppe</b><span class="tag">Everything for Kids world </span> </a></h1>
+					<h1><a href="/">Baby <b>Me</b><span class="tag">{% trans 'You baby send like!!!' %}</span> </a></h1>
 				</div>
 				<div class="nav navbar-nav navbar-right header-two-right">
 					<div class="header-right my-account">
@@ -137,7 +137,7 @@
 					</div>
 					<!--navbar-header-->
 
-                    {% block navbar_dropdown_menu %}{% page_menu "dropdown.html" %}{% endblock%}
+                    {% block navbar_dropdown_menu %}{% page_menu "menu/dropdown.html" %}{% endblock%}
 						<!--//navbar-collapse-->
 						<header class="cd-main-header">
 							<ul class="cd-header-buttons">
@@ -311,14 +311,14 @@
 						<a href="single.html"><img src="images/g12.jpg" class="img-responsive" alt=""/></a>
 						<div class="new-text">
 							<ul>
-								<li><a class="item_add" href=""> Add to cart</a></li>
-								<li><a href="single.html">Quick View </a></li>
-								<li><a href="products.html">Show Details </a></li>
+								<li><a class="item_add" href="">{% trans "Add to cart" %}</a></li>
+								<li><a href="single.html">{% trans "Quick View" %} </a></li>
+								<li><a href="products.html">{% trans "Show Details" %} </a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="new-bottom">
-						<h5><a class="name" href="single.html">Child Print Bike </a></h5>
+						<h5><a class="name" href="single.html">{% trans "Child Print Bike" %}</a></h5>
 						<div class="rating">
 							<span class="on">☆</span>
 							<span class="on">☆</span>
@@ -513,35 +513,7 @@
 	</div>
 	<!--//trend-->
 	<!--footer-->
-	<div class="footer">
-		<div class="container">
-			<div class="footer-info">
-				<div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".5s">
-					<h4 class="footer-logo"><a href="index.html">Modern <b>Shoppe</b> <span class="tag">Everything for Kids world </span> </a></h4>
-					<p>© 2016 Modern Shoppe . All rights reserved | Design by <a href="http://w3layouts.com" target="_blank">W3layouts</a></p>
-				</div>
-				<div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".7s">
-					<h3>Popular</h3>
-					<ul>
-						<li><a href="about.html">About Us</a></li>
-						<li><a href="products.html">new</a></li>
-						<li><a href="contact.html">Contact Us</a></li>
-						<li><a href="faq.html">FAQ</a></li>
-						<li><a href="checkout.html">Wishlist</a></li>
-					</ul>
-				</div>
-				<div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".9s">
-					<h3>Subscribe</h3>
-					<p>Sign Up Now For More Information <br> About Our Company </p>
-					<form>
-						<input type="text" placeholder="Enter Your Email" required="">
-						<input type="submit" value="Go">
-					</form>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
-	</div>
+    {% block footer %}{% page_menu "footer.html" %}{% endblock%}
 	<!--//footer-->
 	<!--search jQuery-->
     {% compress js %}

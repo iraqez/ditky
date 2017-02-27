@@ -396,7 +396,9 @@ if os.path.exists(f):
     sys.modules[module_name] = module
     exec(open(f, "rb").read())
 
-
+PAGE_MENU_TEMPLATES = (
+    (1, "Top navigation bar", "pages/menus/dropdown.html"),
+)
 
 
 ####################
