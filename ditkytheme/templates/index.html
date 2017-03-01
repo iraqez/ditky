@@ -1,7 +1,14 @@
 {% extends "base.html" %}
 {% load staticfiles mezzanine_tags shop_tags rating_tags i18n %}
 
-{% block body %}
+{% block meta_title %}{% trans "Home" %}{% endblock %}
+{% block title %}{% trans "Home" %}{% endblock %}
+
+{% block breadcrumb_menu %}
+<li class="active">{% trans "Home" %}</li>
+{% endblock %}
+
+{% block main %}
 	<!--banner-->
     {% block baner %}{% include "baner.html" %}{% endblock%}
 	<!--//banner-->
@@ -184,4 +191,4 @@
 	</div>
 	<!--//trend-->
 
-{% endblock body %}
+{% endblock main %}
